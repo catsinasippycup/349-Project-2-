@@ -28,18 +28,6 @@ Clone the repository and install the dependencies:
     @tailwind utilities;
 ``
 in your main CSS file.
-
-## Installing React Icons
-
-1. To use React Icons, install the package via npm:
-`npm install react-icons`
-
-## Technologies Used
-
-* React
-* Tailwind CSS
-* React Icons
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
