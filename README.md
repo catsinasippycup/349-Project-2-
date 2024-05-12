@@ -36,3 +36,12 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Video references 
+
+https://www.youtube.com/playlist?list=PL1HMn5V7V6NGNIblxjbNFXIz9O6pBOGid
+
+# Quirks 
+
+When clicking an item on the navbar and refreshing it will take you back to the section you were on:
+* `localhost:3000#about` when refreshed will keep you on `localhost:3000#about`.
